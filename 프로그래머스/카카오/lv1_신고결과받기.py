@@ -1,3 +1,6 @@
+# 리스트 컴프리헨션 사용
+# Counter 사용
+
 from collections import Counter
 
 def solution(id_list, report, k):
