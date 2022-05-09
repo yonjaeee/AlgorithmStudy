@@ -1,3 +1,5 @@
+# Recursion Error 떴었는데 이는 최대 깊이보다 더 탐색해야 되서
+# sys.setrecursionlimit()으로 해결
 import sys
 sys.setrecursionlimit(10**6)
 
